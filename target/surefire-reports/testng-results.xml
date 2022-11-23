@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="27787" started-at="2022-11-23T16:36:03 IST" finished-at="2022-11-23T16:36:31 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="27787" started-at="2022-11-23T16:36:03 IST" finished-at="2022-11-23T16:36:31 IST">
+      <class name="TestMovieDetails">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestMovieDetails@6a4f787b]" name="setup" is-config="true" duration-ms="651" started-at="2022-11-23T16:36:03 IST" finished-at="2022-11-23T16:36:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="wiki()[pri:1, instance:TestMovieDetails@6a4f787b]" name="wiki" duration-ms="3533" started-at="2022-11-23T16:36:03 IST" finished-at="2022-11-23T16:36:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wiki -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestMovieDetails@6a4f787b]" name="afterMethod" is-config="true" duration-ms="70" started-at="2022-11-23T16:36:07 IST" finished-at="2022-11-23T16:36:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestMovieDetails@6a4f787b]" name="setup" is-config="true" duration-ms="276" started-at="2022-11-23T16:36:07 IST" finished-at="2022-11-23T16:36:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="imdB()[pri:2, instance:TestMovieDetails@6a4f787b]" name="imdB" duration-ms="22775" started-at="2022-11-23T16:36:07 IST" finished-at="2022-11-23T16:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imdB -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestMovieDetails@6a4f787b]" name="afterMethod" is-config="true" duration-ms="122" started-at="2022-11-23T16:36:30 IST" finished-at="2022-11-23T16:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestMovieDetails@6a4f787b]" name="setup" is-config="true" duration-ms="269" started-at="2022-11-23T16:36:30 IST" finished-at="2022-11-23T16:36:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validate()[pri:3, instance:TestMovieDetails@6a4f787b]" name="validate" duration-ms="1" started-at="2022-11-23T16:36:31 IST" finished-at="2022-11-23T16:36:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestMovieDetails@6a4f787b]" name="afterMethod" is-config="true" duration-ms="66" started-at="2022-11-23T16:36:31 IST" finished-at="2022-11-23T16:36:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestMovieDetails -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
